@@ -1,0 +1,4 @@
+P->SbP|SbS|S
+S->WbS|W
+W->L*W|L
+L->i
